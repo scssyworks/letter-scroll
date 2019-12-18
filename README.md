@@ -1,4 +1,4 @@
 # letter-scroll
-Scroll content scrubbing through letters
+Scroll through your alphabetical list by touching letters
 
 # This package is under developement
